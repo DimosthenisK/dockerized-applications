@@ -2,7 +2,7 @@
 
 This is my personal repository for useful dockerized applications that I may need to have in a click of a button.
 
-** This is strictly for development purposes only, and is not secure to use in a production environment.*
+** This is strictly for development purposes only, and is not secure to use in a production environment. **
 
 ## Currently supported applications
 
